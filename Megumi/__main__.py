@@ -21,7 +21,7 @@ from telegram.ext.dispatcher import DispatcherHandlerStop, run_async
 from telegram.utils.helpers import escape_markdown
 
 PM_START_TEXT = """
-Hi *{}*, my name is *Megumi*!
+Hi *{}*, my name is *Miyank*!
 
 // I am an Anime themed group management bot with a lot of Special Features.
 
@@ -29,14 +29,14 @@ Hi *{}*, my name is *Megumi*!
 
 ==========================
 -> [Megumi's Repo](https://github.com/Unknown746/Megumi)
--> Report [Blessing Support](https://t.me/BlessingSupport) if I go offline
+-> Report [Blessing Support](https://t.me/miyanksupport) if I go offline
 ==========================
 
 // Wanna Add me to your Group? Just click the button below!
 """
 
 HELP_STRINGS = """
-Hey! My name is *Megumi*. I am a group management bot, here to help you get around and keep the order in your groups!
+Hey! My name is *miyank*. I am a group management bot, here to help you get around and keep the order in your groups!
 
 *Main* commands available:
 
