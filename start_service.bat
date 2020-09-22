@@ -24,5 +24,5 @@ if '%errorlevel%' NEQ '0' (
     pushd "%CD%"
     CD /D "%~dp0"
 :--------------------------------------
-net stop Megumi
-net start Megumi
+net stop Miyank
+net start Miyank
