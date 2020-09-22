@@ -1,3 +1,3 @@
 @echo off
-TITLE Megumi
-env\scripts\activate.bat && py -m Megumi
+TITLE miyank
+env\scripts\activate.bat && py -m miyank
