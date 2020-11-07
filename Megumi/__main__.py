@@ -43,7 +43,6 @@ Hey! My name is *Kora*. I am a group management bot, here to help you get around
  • /start: start the bot
  • /help: PM's you this message.
  • /help <module name>: PM's you info about that module.
- • /donate: information about how to donate!
  • /settings:
    • in PM: will send you your settings for all supported modules.
    • in a group: will redirect you to pm, with all that chat's settings.
@@ -53,7 +52,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-MEGUMI_IMG = "https://telegra.ph/file/aebaa70957ff54d9a816d.jpg"
+MEGUMI_IMG = "https://telegra.ph/file/0c1732e996a5d3b0ffc55.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 Megumi is hosted on one of Tiger's Servers and doesn't require any donations as of now but \
